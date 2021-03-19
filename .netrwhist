@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/c/Users/wangl/myfiles/Projects/Mouse_EEG'
+let g:netrw_dirhist_2='/mnt/c/Users/wangl/myfiles/Projects'
+let g:netrw_dirhist_3='/mnt/c/Users/wangl/myfiles/Projects/GRINS_EEG_Microstates'
+let g:netrw_dirhist_4='/mnt/c/Users/wangl/myfiles/Projects/GRINS_EEG_Microstates/data'
